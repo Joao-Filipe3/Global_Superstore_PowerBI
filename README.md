@@ -1,4 +1,4 @@
-# Global Superstore — Dashboard de Análisis de Ventas (Power BI)
+# Global Superstore: Dashboard de Análisis de Ventas (Power BI)
 
 ### 📝 Descripción del Proyecto
 
