@@ -141,4 +141,5 @@ Storytelling con datos
 Visual Analytics
 
 LinkedIn: https://www.linkedin.com/in/joao-filipe-azevedo-2772a9163/
+
 Medium: https://medium.com/@filipedata7
