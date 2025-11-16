@@ -1,4 +1,5 @@
 # Global Superstore — Dashboard de Análisis de Ventas (Power BI)
+
 ### 📝 Descripción del Proyecto
 
 Este proyecto presenta un análisis completo basado en el dataset Global Superstore, con datos históricos de pedidos entre 2011 y 2014.
@@ -29,20 +30,22 @@ El análisis fue desarrollado en Power BI, aplicando técnicas profesionales de 
 
 
 ### Estructura del Repositorio
- global-superstore-powerbi
-├── 📄 README.md
-├── 📂 dataset
-│    └── global_superstore.xlsx
-├── 📂 pbix
-│    └── global_superstore_dashboard.pbix
-├── 📂 documentation
-│    └── analisis_ventas.pdf
-└── 📂 images
-     ├── portada.png
-     ├── overview.png
-     ├── clientes.png
-     ├── productos.png
-     └── geografia.png
+
+ 📦 global-superstore-powerbi
+├── README.md
+├── dataset
+│   └── global_superstore.xlsx
+├── pbix
+│   └── global_superstore_dashboard.pbix
+├── documentation
+│   └── analisis_ventas.pdf
+└── images
+    ├── portada.png
+    ├── overview.png
+    ├── clientes.png
+    ├── productos.png
+    └── geografia.png
+
      
 
 ### 📊 Principales Métricas del Dashboard
@@ -71,76 +74,76 @@ El análisis fue desarrollado en Power BI, aplicando técnicas profesionales de 
 
 ### 1️⃣ Visión General
 
-Total ventas y beneficios
+- Total ventas y beneficios
 
-Tendencias anuales
+- Tendencias anuales
 
-KPI principales
+- KPI principales
 
-Top clientes
+- Top clientes
 
-2️⃣ Clientes
+### 2️⃣ Clientes
 
-Frecuencia de compra
+- Frecuencia de compra
 
-Ingresos por segmento
+- Ingresos por segmento
 
-Beneficio por segmento
+- Beneficio por segmento
 
-Top 100 clientes
+- Top 100 clientes
 
-Frecuencia de compra por tipo de cliente
+- Frecuencia de compra por tipo de cliente
 
-3️⃣ Productos
+### 3️⃣ Productos
 
-Métricas por categoría y subcategoría
+- Métricas por categoría y subcategoría
 
-Simulador de impacto de descuentos
+- Simulador de impacto de descuentos
 
-Ventas y beneficios por producto
+- Ventas y beneficios por producto
 
-4️⃣ Geografía
+### 4️⃣ Geografía
 
-Visualización geoespacial
+- Visualización geoespacial
 
-Top ciudades por beneficio
+- Top ciudades por beneficio
 
-Distribución de clientes por país
+- Distribución de clientes por país
 
-🧠 Técnicas Utilizadas
+## Técnicas Utilizadas
 
-Modelado Star Schema
+- Modelado Star Schema
 
-Power Query para limpieza del dataset
+- Power Query para limpieza del dataset
 
-DAX para KPIs y cálculos avanzados
+- DAX para KPIs y cálculos avanzados
 
-Segmentación dinámica
+- Segmentación dinámica
 
-What-if Parameters (Simulador descuentos)
+- What-if Parameters (Simulador descuentos)
 
-Optimización de performance en PBIX
+- Optimización de performance en PBIX
 
-Diseño visual profesional (UX/UI)
+- Diseño visual profesional (UX/UI)
 
-💡 Conclusiones del Análisis
+## 💡 Conclusiones del Análisis
 
-Los clientes de frecuencia media representan 80% del revenue.
+- Los clientes de frecuencia media representan 80% del revenue.
 
-Las ventas crecieron de forma constante entre 2011–2014.
+- Las ventas crecieron de forma constante entre 2011–2014.
 
-Los descuentos excesivos reducen drásticamente el margen (demostrado en el simulador).
+- Los descuentos excesivos reducen drásticamente el margen (demostrado en el simulador).
 
-EE.UU. concentra 19% de los clientes y las ciudades con mayor rentabilidad.
+- EE.UU. concentra 19% de los clientes y las ciudades con mayor rentabilidad.
 
-Algunos productos altamente vendidos generan márgenes bajos → oportunidad de optimización.
+- Algunos productos altamente vendidos generan márgenes bajos → oportunidad de optimización.
 
-👨‍💻 Sobre el Autor
+## 👨‍💻 Sobre el Autor
 
-Desarrollado por [Tu nombre],
-Profesional de Business Intelligence con experiencia en:
+Desarrollado por Joao Filipe,
+Profesional de Data Analisis con experiencia en:
 
-Power BI / DAX / Power Query
+Power BI / DAX / Power Query / SQL / Python
 
 Modelado de datos
 
@@ -150,5 +153,5 @@ Storytelling con datos
 
 Visual Analytics
 
-LinkedIn: tu enlace
-Portfolio: tu enlace
+LinkedIn: https://www.linkedin.com/in/joao-filipe-azevedo-2772a9163/
+Medium: https://medium.com/@filipedata7
