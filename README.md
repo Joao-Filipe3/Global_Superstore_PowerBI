@@ -17,13 +17,15 @@ El objetivo del dashboard es proporcionar una vista clara y ejecutiva sobre:
 
 El análisis fue desarrollado en Power BI, aplicando técnicas profesionales de modelado, storytelling con datos y diseño visual orientado a negocio.
 
-### Demo del Dashboard
+## Demo del Dashboard
 
-📄 Informe completo en PDF
+### 📄 Informe completo en PDF
+
 https://github.com/Joao-Filipe3/Global_Superstore_PowerBI/blob/2059446363d3164a9d26d0d590aeaf9db9a53a33/analisis_ventas.pdf
 
-📊 Descargar archivo PBIX
-/pbix/global_superstore_dashboard.pbix
+### 📊 Descargar archivo PBIX
+
+https://github.com/Joao-Filipe3/Global_Superstore_PowerBI/blob/4c96e72baf2c32547700c746ce8cb909d870e065/Pbix
 
 
 ### Estructura del Repositorio
