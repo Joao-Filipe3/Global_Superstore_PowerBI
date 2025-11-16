@@ -23,7 +23,7 @@ El análisis fue desarrollado en Power BI, aplicando técnicas profesionales de 
 (Aquí colocas tu enlace al publicarlo en Power BI Service)
 
 📄 Informe completo en PDF
-👉 /documentation/analisis_ventas.pdf
+analisis_ventas.pdf
 
 📊 Descargar archivo PBIX
 /pbix/global_superstore_dashboard.pbix
