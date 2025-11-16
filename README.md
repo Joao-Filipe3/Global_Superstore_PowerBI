@@ -53,12 +53,6 @@ https://github.com/Joao-Filipe3/Global_Superstore_PowerBI/blob/4c96e72baf2c32547
 
 - Márgenes por Segmento
 
-- Consumer – 11.65%
-
-- Corporate – 11.44%
-
-- Home Office – 11.29%
-
 - Top Cliente por Beneficio: Aaron Bergman
 
 - Top Ciudad por Beneficio: New York City
