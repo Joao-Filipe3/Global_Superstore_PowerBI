@@ -36,14 +36,8 @@ https://github.com/Joao-Filipe3/Global_Superstore_PowerBI/blob/4c96e72baf2c32547
     │   └── global_superstore.xlsx
     ├── pbix
     │   └── global_superstore_dashboard.pbix
-    ├── documentation
+    ├── Dashboard.pdf
     │   └── analisis_ventas.pdf
-    └── images
-        ├── portada.png
-        ├── overview.png
-        ├── clientes.png
-        ├── productos.png
-        └── geografia.png
 
      
 
