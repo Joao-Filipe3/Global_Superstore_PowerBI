@@ -31,28 +31,20 @@ El análisis fue desarrollado en Power BI, aplicando técnicas profesionales de 
 
 ### Estructura del Repositorio
 
- 📦 global-superstore-powerbi
-├── README.md
-
-├── dataset
-
-│   └── global_superstore.xlsx
-
-├── pbix
-
-│   └── global_superstore_dashboard.pbix
-
-├── documentation
-
-│   └── analisis_ventas.pdf
-
-└── images
-
-    ├── portada.png
-    ├── overview.png
-    ├── clientes.png
-    ├── productos.png
-    └── geografia.png
+    📦 global-superstore-powerbi
+    ├── README.md
+    ├── dataset
+    │   └── global_superstore.xlsx
+    ├── pbix
+    │   └── global_superstore_dashboard.pbix
+    ├── documentation
+    │   └── analisis_ventas.pdf
+    └── images
+        ├── portada.png
+        ├── overview.png
+        ├── clientes.png
+        ├── productos.png
+        └── geografia.png
 
      
 
